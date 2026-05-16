@@ -1,0 +1,11 @@
+Scan run: 2025-12-17T06:53:57.120650Z
+Target: 192.168.227.27
+Scan type: tcp
+Ports: None
+Timeout: 2s
+Delay between probes: 0.0s
+---
+
+Scan Results:
+=============
+

@@ -1,0 +1,16 @@
+Scan run: 2025-12-11T13:50:04.919309Z
+Target: 192.168.1.100
+Scan type: udp
+Ports: 53,123,161
+Timeout: 2s
+Delay between probes: 0.0s
+---
+
+Scan Results:
+=============
+
+UDP Port Scan Results:
+Port 53: open|filtered
+Port 123: open|filtered
+Port 161: open|filtered
+
