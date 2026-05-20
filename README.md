@@ -18,14 +18,14 @@
 <!-- readme-gen:start:badges -->
 <div align="center">
 
-![CI](https://img.shields.io/github/actions/workflow/status/bhavyup/Network-Scanning-Tool/ci.yml?style=for-the-badge&labelColor=161b22&logo=githubactions&logoColor=white&color=0d1117)
-![License](https://img.shields.io/github/license/bhavyup/Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
+![CI](https://img.shields.io/github/actions/workflow/status/Ayushman-Singh08/-Network-Scanning-Tool/ci.yml?style=for-the-badge&labelColor=161b22&logo=githubactions&logoColor=white&color=0d1117)
+![License](https://img.shields.io/github/license/Ayushman-Singh08/-Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
 ![Python](https://img.shields.io/badge/python-3.10%2B-0d1117?style=for-the-badge&labelColor=161b22&logo=python&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/bhavyup/Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
-![Forks](https://img.shields.io/github/forks/bhavyup/Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
-![Issues](https://img.shields.io/github/issues/bhavyup/Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
-![Last Commit](https://img.shields.io/github/last-commit/bhavyup/Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
+![Stars](https://img.shields.io/github/stars/Ayushman-Singh08/-Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
+![Forks](https://img.shields.io/github/forks/Ayushman-Singh08/-Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
+![Issues](https://img.shields.io/github/issues/Ayushman-Singh08/-Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
+![Last Commit](https://img.shields.io/github/last-commit/Ayushman-Singh08/-Network-Scanning-Tool?style=for-the-badge&labelColor=161b22&color=0d1117)
 
 </div>
 <!-- readme-gen:end:badges -->
@@ -60,8 +60,8 @@
 ### Install
 
 ```
-git clone https://github.com/bhavyup/Network-Scanning-Tool.git
-cd Network-Scanning-Tool
+git clone https://github.com/Ayushman-Singh08/-Network-Scanning-Tool.git
+cd -Network-Scanning-Tool
 python -m venv .venv
 ```
 
@@ -191,6 +191,6 @@ MIT. See [LICENSE](LICENSE).
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=100&section=footer" width="100%" />
 
-Built with care by [Contributors](https://github.com/bhavyup/Network-Scanning-Tool/graphs/contributors)
+Built with care by [Contributors](https://github.com/Ayushman-Singh08/-Network-Scanning-Tool/graphs/contributors)
 </div>
 <!-- readme-gen:end:footer -->
